@@ -1,2 +1,2 @@
 # projetos-python
-# projetos em python para estudo e portifólio
+projetos em python para estudo e portifólio
